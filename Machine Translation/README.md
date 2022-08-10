@@ -1,4 +1,4 @@
-# Assignment 3
+# Language Models and Machine Translation
 
 ## Runing models
 
